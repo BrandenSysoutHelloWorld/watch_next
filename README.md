@@ -1,6 +1,10 @@
 # INSTALLING & RUNNING WATCH_NEXT PYTHON SCRIPT
-*Using Command Prompt*
+
 This Python Script compares pre-defined movie descriptions to The Hulk Movie and suggests the most similar movie description!
+
+## INSTRUCTIONS
+
+*Using Command Prompt*
 
 STEP 1
 ------
